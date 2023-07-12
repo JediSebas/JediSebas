@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Sebastian
-<p>I'm 18 yo and my passion is everything bonded with IT, maths and science.<br />
+<p>I'm 19 yo and my passion is everything bonded with IT, maths and science.<br />
 The most I like programming in Java for Android, but I'm currently learning Spring to could make web apps.<br />
-I go to 4th grade in IT technical school. I'm developing my skills since 2016 year and keep going.</p>
+I go to 5th grade in IT technical school. I'm developing my skills since 2016 year and keep going.</p>
 
 ## My tech stack
 <p>
@@ -21,8 +21,5 @@ I go to 4th grade in IT technical school. I'm developing my skills since 2016 ye
 </p>
 <br />
 
-### I'm looking for an internship.
-<p>If you work in Poznań, Wrocław or another city and want to spend some time teaching someone who could help you with your project, I am open to cooperation.</p>
-
 ## How to reach me?
-<p>You can find me on <a href="https://www.linkedin.com/in/sebastian-dolata-51500925b/" target="_blank">LinkedIn</a> or you can write to me at address <a href="mailto:sebasdolata04@gmail.com" target="_blank">sebasdolata04@gmail.com</a>.</p>
+<p>You can find me on <a href="https://www.linkedin.com/in/sebastian-dolata/" target="_blank">LinkedIn</a> or you can write to me at address <a href="mailto:sebasdolata04@gmail.com" target="_blank">sebasdolata04@gmail.com</a>.</p>
