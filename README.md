@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m Sebastian
 <p>I'm 19 yo and my passion is everything bonded with IT, maths and science.<br />
-The most I like programming in Java for Android, but I'm currently learning Spring to could make web apps.<br />
 I go to 5th grade in IT technical school. I'm developing my skills since 2016 year and keep going.</p>
 
 ## My tech stack
