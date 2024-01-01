@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m Sebastian
-<p>I'm 19 yo and my passion is everything bonded with IT, maths and science.<br />
-I go to 5th grade in IT technical school. I'm developing my skills since 2016 year and keep going.</p>
+<p>Look at my <a href="https://jedisebas.github.io/Portfolio/">portfolio</a></p> 
 
 ## My tech stack
 <p>
